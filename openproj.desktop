@@ -1,0 +1,16 @@
+[Desktop Entry]
+Name=openproj
+GenericName=Project Management
+GenericName[de]=Projekt Management
+GenericName[fr]=Gestion de projet
+GenericName[pl]=Zarządzanie projektem
+Comment=Project Management
+Comment[de]=Projekt Management
+Comment[fr]=Gestion de projet
+Comment[pl]=Zarządzanie projektem
+Exec=openproj %F
+Icon=openproj.png
+Type=Application
+Terminal=false
+Categories=Application;Office;ProjectManagement;
+MimeType=application/x-openproj;
