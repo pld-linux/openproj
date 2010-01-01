@@ -1,5 +1,5 @@
 Summary:	Java based project manager
-SUmmary(pl.UTF-8):	Napisany w Javie system zarządzania projektem
+Summary(pl.UTF-8):	Napisany w Javie system zarządzania projektem
 Name:		openproj
 Version:	1.2
 Release:	1
