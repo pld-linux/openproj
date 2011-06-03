@@ -1,8 +1,12 @@
+# TODO:
+# - Fix /usr/share/doc/openproj dependency?
+# - Include wrapper to fix Java / reparenting WM problems?
+#
 Summary:	Java based project manager
 Summary(pl.UTF-8):	Napisany w Javie system zarządzania projektem
 Name:		openproj
 Version:	1.4
-Release:	1
+Release:	0.1
 License:	Common Public Attribution License 1.0 (CPAL)
 Group:		X11/Applications
 Source0:	http://downloads.sourceforge.net/openproj/%{name}-%{version}-src.tar.gz
